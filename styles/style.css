@@ -1,0 +1,176 @@
+/* login form */
+
+#body {
+    font-family: 'Nunito';
+    background: linear-gradient(90deg, #aac0e6, #8aa4d1, #5d8cde, #4b7bcc);
+}
+
+#login-card {
+    width: 350px;
+    border-radius: 25px;
+    margin: 150px auto;
+    background-color: #ffff;
+    padding: 40px 80px;
+}
+
+#signin-card {
+    width: 400px;
+    border-radius: 25px;
+    margin: auto auto;
+    background-color: #ffff;
+    padding: 40px 80px;
+}
+
+#inputData {
+    border-radius: 30px;
+    background-color: #ebf0fc;
+    border-color: #ebf0fc;
+    color: #9da3b0;
+}
+
+#button {
+    border-radius: 30px;
+}
+
+#btn {
+    position: absolute;
+    bottom: -35px;
+    padding: 5px;
+    margin: 0px 55px;
+    align-items: center;
+    border-radius: 5px"
+
+}
+
+
+/* end login form */
+
+
+/* navbar */
+
+.navbar-brand span {
+    color: #2f446b;
+}
+
+.navbar {
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-brand {
+    padding-right: 30px;
+    font-weight: bold;
+    padding-left: 20px;
+    font-size: 23px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    padding: 10px;
+    margin: 0px;
+    color: white !important;
+    font-size: 20px;
+    padding-left: 60px;
+}
+
+.navbar-nav .nav-item .nav-link i {
+    padding-left: 20px;
+    padding-right: 5px;
+    color: white;
+}
+
+.collapse {
+    background-color: #2f446b;
+    border-radius: 170px 0 0 0;
+    margin: 0px;
+    padding: 10px;
+}
+
+
+/* end nabar */
+
+
+/* footer */
+
+.footer-top {
+    background-color: #2f446b;
+    padding: 50px 0;
+}
+
+.part-two h2 {
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    padding-top: 20px;
+    color: white;
+}
+
+.part-two h2::before {
+    content: '|';
+    color: white;
+    padding-right: 5px;
+}
+
+.part-two ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.part-two ul li {
+    line-height: 40px;
+    border-bottom: 1px solid white;
+    width: 230px;
+}
+
+.part-two ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.part {
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    padding-top: 20px;
+    color: white;
+}
+
+.part h2::before {
+    content: '|';
+    color: white;
+    padding-right: 5px;
+}
+
+.part a {
+    background-color: #fff;
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.part a i {
+    font-size: 20px;
+    color: #202d45;
+    padding: 8px 8px;
+}
+
+.part input[type=submit] {
+    background-color: #202d45;
+    border: none;
+    padding: 3px 15px;
+    color: white;
+    text-transform: uppercase;
+    margin: 5px 0;
+}
+
+.footer-bottom {
+    text-align: center;
+    background-color: #202d45;
+    line-height: 50px;
+    color: white;
+}
+
+
+/* end footer */
+
+
+/* cards */
